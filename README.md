@@ -191,9 +191,7 @@ After a thorough room scan, HMD tracking loss should become rare.
 
 ---
 
-<details>
-<summary><h2>How Tracking Works (Technical Breakdown)</h2></summary>
-<br>
+## How Tracking Works (Technical Breakdown)
 Understanding how the system works can make it easier to troubleshoot issues.
 
 ### Headset Tracking: On-Device SLAM
@@ -229,8 +227,6 @@ The **custom sync build** (with patches from [@RealSupremium](https://github.com
 This allows for a much more accurate synchronization between the fast IMU data and the absolute position from the camera frames. This calibration is why tracking takes a few extra seconds to initialize when controllers are connected using this build, but results in far more stable tracking.
 
 > You can find this build in the artifacts of this workflow build: [custom-controller-sync](https://github.com/BnuuySolutions/PSVR2Toolkit/actions/runs/18515528451)
-
-</details>
 
 ---
 
