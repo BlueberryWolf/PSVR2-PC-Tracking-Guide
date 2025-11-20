@@ -129,7 +129,7 @@ Unplugging or moving other USB 3.0 devices away helps
 
 Bluetooth controllers fight for bandwidth with:
 
-* wireless mice, keyboards, headphones, speaker
+* wireless mice, keyboards, headphones, speakers
 * other 2.4 GHz dongles
 * 2.4GHz routers
 * USB 3 ports causing 2.4GHz interference
