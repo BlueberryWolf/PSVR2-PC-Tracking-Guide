@@ -70,8 +70,9 @@ If the view looks noisy or grainy, the room is too dark.
 ### Improve Lighting
 
 * Use bright room lights
-* Avoid direct sunlight hitting lenses
+* Avoid using LED light strips for lighting
 * Open curtains for soft light
+* Avoid direct sunlight hitting lenses
 * For dark rooms, IR illuminators should work well. They flood the room in infrared light, that is invisible to us, but looks like daytime to the cameras.
 
 ### Environments That Cause Tracking Problems
